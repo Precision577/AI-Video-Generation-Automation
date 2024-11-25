@@ -173,10 +173,18 @@ This project demonstrates expertise in:
 AI Media Integration:
 Using GPT, DALL-E, and Eleven Labs for seamless content generation.
 
+Example Video:
+
+
 Video Production:
 Automating the entire video creation process with Python.
 
 Scalable Workflows:
 Efficiently managing resources with multiprocessing and dynamic file handling.
 
+
+<video width="640" height="360" controls>
+  <source src="example%20videos%20and%20scripts/final_video_with_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
